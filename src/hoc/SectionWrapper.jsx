@@ -11,7 +11,7 @@ function HOC(){
             initial="hidden"
             whileInView="show"
             viewPort={{once: true, amount:0.25}}
-            className={`${styles.padding} max-w-7x1
+            className={`${styles.padding} max-w-7xl
             mx-auto relative z-0`}
 
         >
